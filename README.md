@@ -33,7 +33,7 @@ Code | Level | Rule
 [V020](Ruleset/V020.md) | MAJOR | Class protected property added
 [V014](Ruleset/V014.md) | MINOR | Class added
 [V017](Ruleset/V017.md) | MINOR | *Final class public method added*
-[V018](Ruleset/V018.md) | MINOR | *Final class protected method added*
+[V018](Ruleset/V018.md) | PATCH | *Final class protected method added*
 [V021](Ruleset/V021.md) | MINOR | *Final class protected method parameter changed*
 [V022](Ruleset/V022.md) | PATCH | *Final class protected method removed*
 [V023](Ruleset/V023.md) | PATCH | [Final] Class public class method implementation changed
