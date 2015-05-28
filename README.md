@@ -81,12 +81,12 @@ Code | Level | Rule
 [V056](Ruleset/V056.md) | MAJOR | Trait private property removed
 [V057](Ruleset/V057.md) | MAJOR | Trait private method added
 [V058](Ruleset/V058.md) | MAJOR | Trait private method removed
+[V059](Ruleset/V059.md) | MAJOR | Trait private method parameter changed
 [V046](Ruleset/V046.md) | MINOR | Trait added
 [V051](Ruleset/V051.md) | MINOR | *REMOVED*
 [V052](Ruleset/V052.md) | PATCH | Trait public method implementation changed
 [V053](Ruleset/V053.md) | PATCH | Trait protected method implementation changed
 [V054](Ruleset/V054.md) | PATCH | Trait private method implementation changed
-[V059](Ruleset/V059.md) | PATCH | Trait private method parameter changed
 [V064](Ruleset/V064.md) | PATCH | Trait public method parameter name changed
 [V065](Ruleset/V065.md) | PATCH | Trait protected method parameter name changed
 [V066](Ruleset/V066.md) | PATCH | Trait private method parameter name changed
