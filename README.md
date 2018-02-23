@@ -19,6 +19,7 @@ Code | Level | Rule
 [V071](Ruleset/V071.md) | MINOR | Function parameter default added
 [V072](Ruleset/V072.md) | MAJOR | Function parameter default removed
 [V073](Ruleset/V073.md) | MINOR | Function parameter default value changed
+[V160](Ruleset/V160.md) | PATCH | Function name case changed
 
 # Classes
 
@@ -74,6 +75,10 @@ Code | Level | Rule
 [V097](Ruleset/V097.md) | MAJOR | Class public method parameter default value changed
 [V098](Ruleset/V098.md) | MAJOR | Class protected method parameter default value changed
 [V099](Ruleset/V099.md) | PATCH | Class private method parameter default value changed
+[V150](Ruleset/V150.md) | PATCH | Class public method name case changed
+[V156](Ruleset/V156.md) | PATCH | Class protected method name case changed
+[V157](Ruleset/V157.md) | PATCH | Class private method name case changed
+[V154](Ruleset/V154.md) | PATCH | Class name case changed
 VXXX | MAJOR | *Final class public method parameter added*
 VXXX | MAJOR | *Final class protected method parameter added*
 VXXX | PATCH | *Final class private method parameter added*
@@ -113,6 +118,8 @@ Code | Level | Rule
 [V077](Ruleset/V077.md) | MINOR | Interface method parameter default added
 [V078](Ruleset/V078.md) | MAJOR | Interface method parameter default removed
 [V079](Ruleset/V079.md) | MAJOR | Interface method parameter default value changed
+[V151](Ruleset/V151.md) | PATCH | Interface method name case changed
+[V153](Ruleset/V153.md) | PATCH | Interface name case changed
 
 # Trait
 
@@ -162,3 +169,8 @@ Code | Level | Rule
 [V115](Ruleset/V115.md) | MAJOR | Trait public method parameter default value changed
 [V116](Ruleset/V116.md) | MAJOR | Trait protected method parameter default value changed
 [V117](Ruleset/V117.md) | MAJOR | Trait private method parameter default value changed
+[V152](Ruleset/V152.md) | PATCH | Trait public method name case changed
+[V158](Ruleset/V158.md) | PATCH | Trait protected method name case changed
+[V159](Ruleset/V159.md) | PATCH | Trait private method name case changed
+[V155](Ruleset/V155.md) | PATCH | Trait name case changed
+
